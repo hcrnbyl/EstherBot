@@ -1,7 +1,7 @@
 {
     "HELLO": "Hello there!",
-    "PROJECTS": "I have some projects that you would like to check out",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "PROJECTS": "I have some projects that you would like to check out %[Ke Projects](http://kesundesign.com)",
+    "RESUME": "Here is Ke's experience %[About Ke](http://www.kesundesign.com/about-me.html)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, KeBot is back."
 }
