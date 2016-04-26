@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to know more about Ke? Just type in projects, or experience, or interests :)')
+            return bot.say('Awesome! I was born on April 21, 2016, by a UX designer based in San Francisco. Her name is Ke Sun. Would you like to know more about her? Just reply Yes or No ')
                 .then(() => 'speak');
         }
     },
