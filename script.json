@@ -1,7 +1,8 @@
 {
-    "YES": "Great! Ke is a designer who is interested in trying everything to make a product work, of course, that includes interaction/visual design, prototyping, user research, and building a bot! She has enjoyed working on solutions for a variaty of users. Just type in 'Projects' to get a glance of the projects she worked on. ",
+    "YES": "Great! Ke is a designer who is interested in trying everything to make a product work, of course, that includes interaction/visual design, prototyping, user research, and building a bot! Type in 'Projects' to get a glance of the projects she worked on. ",
+    "NO": "Awwe, but it was nice meeting you! Come back some time and have a great day :)! - you can always type 'Yes' to change your mind",
     "HELLO": "Hello there!",
-    "PROJECTS": "I have some projects that you would like to check out %[Ke Projects](http://kesundesign.com)",
+    "PROJECTS": "There are several projects you may want to check out: 1.a health benefit solution 2.an inforgraphic minisite 3. a Medicare website(just started) 4.a cloud based sales/service solution 5.an sales management iPad app 6. an sales iPad mini app conceptual design, Just type in the numbers to see projects.  %[Ke Projects](http://kesundesign.com)",
     "EXPERIENCE": "Here is Ke's experience %[About Ke](http://www.kesundesign.com/about-me.html)",
     "INTERESTS": "Coming soon!",
     "CONNECT ME": "",
